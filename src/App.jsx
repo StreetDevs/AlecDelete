@@ -53,7 +53,7 @@ function App() {
           By submitting your login email all your information will be deleted including email, phone number,
           photos, name and all other information will be deleted along with your account</p>
 
-          <h1 className=' text-white text-sm lg:w-96 md:w-96 mt-3 text-center'>You will receive an email for  you to confirm that you acknowledge this process</h1>
+          <h1 className=' text-white text-sm lg:w-96 md:w-96 mt-3 text-center'>You will receive an email for  you to confirm that you acknowledge and approve this process</h1>
 
         <form onSubmit={handleSubmission} className=' flex-col flex lg:w-96 md:w-96 mt-5'>
 
